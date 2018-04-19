@@ -6,4 +6,3 @@ puts "Pretty bird!"
 "#{string}"
 
 end
- 
